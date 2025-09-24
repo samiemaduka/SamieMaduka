@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maduka Samuel
 
-I'm a passionate **Frontend Developer** based in **Abuja, Nigeria**, with a background in **Physics** and a love for turning complex problems into clean, responsive interfaces.
+I'm a passionate **Frontend Developer**, with a background in **Physics** and a love for turning complex problems into clean, responsive interfaces.
 
 ## 🔭 Currently Working On
 - Building modern Angular applications at **Jaffa Tech**

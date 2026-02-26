@@ -29,7 +29,7 @@ I'm a passionate **Software Developer**, with a background in **Physics** and a 
 - Custom email templates and SEO-friendly sites
 
 ## ⚡ Fun Fact
-I co-managed the **Hexaview Streaming App** project to **1st place**, combining data analysis with frontend creativity — and yes, I mentor junior developers and love tech convos over coffee ☕.
+I co-managed the **Hexaview Streaming App** project to **1st place**, combining data analysis with frontend creativity — and yes, I mentor junior developers and love I've been loving evry bit of it ☕.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/samie.maduka/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-maduka-92a518227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oyinbo_dev)
